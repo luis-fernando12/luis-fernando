@@ -7,9 +7,10 @@
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
           
    </div>
-
+<hr>
    <div>
-<a href="https://www.instagram.com/fernando_luis080/" target="blank"> <img scr="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
+<a href="https://www.instagram.com/fernando_luis080/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
     
    </div>
           
