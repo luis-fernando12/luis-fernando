@@ -10,7 +10,7 @@ Sou TRAINEE da empresa TITAN
 
 
 
-<p >   <img src="https://github-readme-stats.vercel.app/api?username=luis-fernando12&show_icons=true&theme=radical" /> </p>   <p align="center">   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-fernando12&layout=compact&theme=radical" /> </p>
+<p >   <img src="https://github-readme-stats.vercel.app/api?username=luis-fernando12&show_icons=true&theme=dark" /> </p>   <p align="center">   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-fernando12&layout=compact&theme=dark" /> </p>
 
 
 <div align="center">  
