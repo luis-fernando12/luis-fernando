@@ -29,10 +29,10 @@
 
 <!-- Contato -->
 <div align="center">
-  <a href="https://www.instagram.com/fernando_luis080/" target="_blank">
+  <a href="https://www.instagram.com/fernando_luis080/" style="text-decoration: none;" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <a href="mailto:fernandobasousan@gmail.com">
+  <a href="mailto:fernandobasousan@gmail.com"    style="text-decoration: none;" >
     <img alt="Email" src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
